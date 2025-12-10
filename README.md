@@ -1,2 +1,2 @@
-# lap2
-Tic Tac Toe
+#Tic Tac Toe
+lab 2
